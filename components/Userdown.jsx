@@ -1,6 +1,6 @@
 "use client"
 import React, { useState } from "react";
-import { User, ChevronDown } from "react-feather"; // Importing icons from react-feather for the user and chevron down icons
+import { User, ChevronDown } from "lucide-react"; // Importing icons from react-feather for the user and chevron down icons
 
 const Dropdown = () => {
   const [isOpen, setIsOpen] = useState(false); // State to control dropdown visibility

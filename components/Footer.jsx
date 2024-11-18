@@ -1,6 +1,6 @@
 import { Icon } from "lucide-react";
 import Link from "next/link";
-import { Instagram, Linkedin, Twitter, Facebook } from "react-feather";
+import { Instagram, Linkedin, Twitter, Facebook } from "lucide-react";
 
 import { solutions, Supportlinks, companyLinks } from "./Index";
 
