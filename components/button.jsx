@@ -1,6 +1,6 @@
 'use client'
 import React, { useState } from "react";
-import { ChevronDown, ChevronUp, icons, User, ShoppingBag, Languages, LogOut } from 'lucide-react'
+import { ChevronDown, ChevronUp, User, ShoppingBag, Languages, LogOut } from 'lucide-react'
 
 
 

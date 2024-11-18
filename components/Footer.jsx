@@ -1,4 +1,3 @@
-import { Icon } from "lucide-react";
 import Link from "next/link";
 import { Instagram, Linkedin, Twitter, Facebook } from "lucide-react";
 

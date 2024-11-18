@@ -1,7 +1,7 @@
 "use client"
 import React, { useState } from "react";
 import Link from 'next/link'
-import { ChevronDown, User, ChevronUp } from 'lucide-react'
+import { ChevronDown, ChevronUp } from 'lucide-react'
 import Button from "@/components/button"
 
 
